@@ -1,4 +1,4 @@
-models/distilbert-base-uncased-finetuned-sst-2-english/*
-!models/
+models/distilbert-base-uncased-finetuned-sst-2-english/**
+!models/distilbert-base-uncased-finetuned-sst-2-english/.gitkeep
 pylintrc
 .DS_Store
