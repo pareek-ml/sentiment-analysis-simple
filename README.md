@@ -15,6 +15,7 @@ This repository contains a FastAPI application for sentiment analysis using the 
 git clone https://github.com/yourusername/sentiment-analysis-simple.git
 cd sentiment-analysis-simple
 ```
+Note: Add model in the model directory
 
 ### 2. Build the Docker Image
 
